@@ -1,4 +1,4 @@
-# DemoWebApp
+# Base Web App
 
 Check it out at: https://pacific-bastion-31399.herokuapp.com/
 
