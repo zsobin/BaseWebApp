@@ -13,11 +13,11 @@ Before starting:
 To set up and run:
 
 1. Make a copy of my existing project on github
-  - Fork the project at https://github.com/zsobin/DemoWebApp.git
+  - Fork the project at https://github.com/zsobin/BaseWebApp.git
 
 2. Bring your new copy onto your computer from github 
   - `cd ~/Desktop`
-  - `git clone https://github.com/YourUserName/DemoWebApp.git`
+  - `git clone https://github.com/YourUserName/BaseWebApp.git`
   - `cd DemoWebApp`
   - `ls`
 
