@@ -2,7 +2,9 @@
 
 Check it out at: https://pacific-bastion-31399.herokuapp.com/
 
-Walkthrough Mission- Get up and running with the Base Web App. Should be able to run locally and be deployed on Heroku. 
+### Phase 1: Hello World
+
+Mission- Get up and running with the Base Web App. Should be able to run locally and be deployed on Heroku. 
 
 ##### 0. Before you get started:
 
