@@ -51,7 +51,7 @@ Use the command line to create an app on Heroku, which prepares Heroku to receiv
 
 ##### 6. Install dependencies
 
-Install the project’s dependencies using npm, a tool used to install any other projects your project needs in order to run locally. View the dependencies your app needs here.
+Install the project’s dependencies using npm, a tool used to install any other projects your project needs in order to run locally. View the dependencies your app needs [here](https://github.com/zsobin/BaseWebApp/blob/master/package.json#L9).
 ```
 	npm install 
 ```
