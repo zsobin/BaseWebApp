@@ -70,9 +70,9 @@ Open the project with Sublime text or whichever text editor you installed. Make 
 
 ##### 10. Push that change to github (which automatically deploys on Heroku)
 ```
-		git add .
-		git commit -m “made my first change!” 
-		git push origin master
+	git add .
+	git commit -m “made my first change!” 
+	git push origin master
 ```
 
 ##### 11. View your app live! (it might take a few seconds to finish deploying)
@@ -81,7 +81,8 @@ Open the project with Sublime text or whichever text editor you installed. Make 
 ```	
 
 ### Phase 2 - Continue to work off of ‘Hello World’ 
-  - **Option 1**- Personal website - this is the easier option, using only HTML and CSS. 
-  - **Option 2**- Incorporate database - this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
+
+  - [Option 1 - Personal website](https://github.com/zsobin/PersonalWebApp): This is the easier option, using only HTML and CSS. 
+  - [Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
 
 	Step-by-step instructions for these can be found in the repo READMEs. 
