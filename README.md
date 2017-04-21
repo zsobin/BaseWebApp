@@ -82,7 +82,7 @@ Open the project with Sublime text or whichever text editor you installed. Make 
 
 ### Phase 2 - Continue to work off of ‘Hello World’ 
 
-  - [Option 1 - Personal website](https://github.com/zsobin/PersonalWebApp): This is the easier option, using only HTML and CSS. 
-  - [Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
+[Option 1 - Personal website](https://github.com/zsobin/PersonalWebApp): This is the easier option, using only HTML and CSS. 
+[Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
 
 	Step-by-step instructions for these can be found in the repo READMEs. 
