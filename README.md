@@ -22,6 +22,7 @@ Mission- Get up and running with the Base Web App. Should be able to run locally
 <img width="115" alt="screen shot 2017-04-21 at 11 43 48 am" src="https://cloud.githubusercontent.com/assets/17851174/25285319/ce48dafe-2687-11e7-9fba-3262f406235f.png">
 
 ##### 3. Use the command line to navigate to your desktop:
+- `ls` lists all files in a directory. If you're on a PC, the command is `dir` instead. 
 ```
 	cd ~/Desktop 
 	ls 
