@@ -28,7 +28,9 @@ you should see all the items on your desktop displayed in text in the terminal l
 ![oct-12-2016 21-51-18](https://cloud.githubusercontent.com/assets/17851174/25285297/b97b3586-2687-11e7-8d0a-075baed899c4.gif)
 
  
-##### 4. When you create (or in this case, fork) a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations. Use the command line to (1) clone your project from Github onto your own computer, then (2) navigate into the project and then (3) list all the files in the project:
+##### 4. Fork the Repository 
+
+When you create (or in this case, fork) a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations. Use the command line to (1) clone your project from Github onto your own computer, then (2) navigate into the project and then (3) list all the files in the project:
 
 ```
 	git clone https://github.com/YourUserName/BaseWebApp.git 
@@ -36,13 +38,17 @@ you should see all the items on your desktop displayed in text in the terminal l
 	ls
 ```
 
-##### 5. Use the command line to create an app on Heroku, which prepares Heroku to receive your source code (and initializes a url for you) 
+##### 5. Initialize app for Heroku
+
+Use the command line to create an app on Heroku, which prepares Heroku to receive your source code (and initializes a url for you) 
 ```
 	heroku login
 	heroku create
 ```
 
-##### 6. Install the project’s dependencies using npm, a tool used to install any other projects your project needs in order to run locally. View the dependencies your app needs here.
+##### 6. Install dependencies
+
+Install the project’s dependencies using npm, a tool used to install any other projects your project needs in order to run locally. View the dependencies your app needs here.
 ```
 	npm install 
 ```
@@ -58,16 +64,18 @@ you should see all the items on your desktop displayed in text in the terminal l
  - Click the tab ‘Deploy’ 
  - In Deployment Method, select ‘Connect to Github’ and follow instructions to connect
 
-##### 9. Open the project with Sublime text or whichever text editor you installed. Make a change to your code (ex. In index.ejs change the header text)
+##### 9. Make a change in the code
 
-10. Push that change to github (which automatically deploys on Heroku)
+Open the project with Sublime text or whichever text editor you installed. Make a change to your code (ex. In index.ejs change the header text)
+
+##### 10. Push that change to github (which automatically deploys on Heroku)
 ```
 		git add .
 		git commit -m “made my first change!” 
 		git push origin master
 ```
 
-11. View your app live! (it might take a few seconds to finish deploying)
+##### 11. View your app live! (it might take a few seconds to finish deploying)
 ```
 	heroku open 
 ```	
