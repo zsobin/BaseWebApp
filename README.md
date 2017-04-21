@@ -31,7 +31,7 @@ you should see all the items on your desktop displayed in text in the terminal l
 ![oct-12-2016 21-51-18](https://cloud.githubusercontent.com/assets/17851174/25285297/b97b3586-2687-11e7-8d0a-075baed899c4.gif)
 
  
-##### 4. Fork the Repository 
+##### 4. Clone the Repository 
 
 When you create (or in this case, fork) a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations. Use the command line to (1) clone your project from Github onto your own computer, then (2) navigate into the project and then (3) list all the files in the project:
 
