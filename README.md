@@ -67,6 +67,7 @@ Open a browser and navigate to `localhost:5000`
 ##### 9. Make a change in the code and refresh the page running at `localhost:5000`
 Open the project with Sublime text or whichever text editor you installed. Make a change to your code (ex. In `index.ejs` change the header text) and refresh your web browser- you should see the change!
 
+Ejs is a templating language that stands for embedded javascript. It's like HTML but with some special sauce mixed in so that you can add in a little javascript that gets compiled to HTML before it's send to the browser. We won't really be using it for anything other than HTML today though. 
 
 ##### 10. Link github repo to heroku
 This is kind of a weird step but it's worth it- What this does is essentially connects your heroku app to a Github Repository. It monitors the repository and whenever it sees you push a change, it automatically re-deploys your application so that your changes are incorporated in your live site. 
