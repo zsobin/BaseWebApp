@@ -76,7 +76,7 @@ This is kind of a weird step but it's worth it- What this does is essentially co
  - Click the tab ‘Deploy’ 
  - In Deployment Method, select ‘Connect to Github’ and follow instructions to connect
  
-_*We use automatically deploys at HubSpot- but ours go to a 'QA' or 'staging' site. Can you think of why we might do that? Ask a hubspotter near you what they think!_
+_*We use automatic deploys at HubSpot - but ours go to a 'QA' or 'staging' site. Can you think of why we might do that? Ask a hubspotter near you what they think!_
 
 ##### 11. Push that change to github (which automatically deploys on Heroku)
 *If your server is still running from before (it probably is), you can press control + c to halt it
