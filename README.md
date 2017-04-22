@@ -69,12 +69,14 @@ Open the project with Sublime text or whichever text editor you installed. Make 
 
 
 ##### 10. Link github repo to heroku
-This is kind of a weird step but it's worth it- What this does is essentially connects your heroku app to a Github Repository. It monitors the repository and whenever it sees you push a change, it automatically re-deploys your application so that your changes are incorporated in your live site. We use automatically deploys at HubSpot- but ours go to a 'QA' or 'staging' site. Can you think of why we might do that? Ask a hubspotter near you what they think!
+This is kind of a weird step but it's worth it- What this does is essentially connects your heroku app to a Github Repository. It monitors the repository and whenever it sees you push a change, it automatically re-deploys your application so that your changes are incorporated in your live site. 
 
  - Go to https://dashboard.heroku.com/apps
  - Select your app
  - Click the tab ‘Deploy’ 
  - In Deployment Method, select ‘Connect to Github’ and follow instructions to connect
+ 
+_*We use automatically deploys at HubSpot- but ours go to a 'QA' or 'staging' site. Can you think of why we might do that? Ask a hubspotter near you what they think!_
 
 ##### 11. Push that change to github (which automatically deploys on Heroku)
 *If your server is still running from before (it probably is), you can press control + c to halt it
