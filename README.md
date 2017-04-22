@@ -86,7 +86,7 @@ _*We use automatic deploys at HubSpot - but ours go to a 'QA' or 'staging' site.
 
 ```
 	git add .
-	git commit -m “made my first change!” 
+	git commit -m “made my first change” 
 	git push origin master
 ```
 
