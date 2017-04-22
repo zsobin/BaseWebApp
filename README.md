@@ -94,12 +94,12 @@ _*We use automatically deploys at HubSpot- but ours go to a 'QA' or 'staging' si
 
 ### Phase 2 - Continue to work off of ‘Hello World’ 
 
-- [Option 1 - Personal website](https://github.com/zsobin/PersonalWebApp): This is the easier option, using only HTML and CSS. 
-- [Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
-
-Step-by-step instructions for these can be found in the repo READMEs. 
-
 A few tips before you begin:
  - **Test often**- when you make a change, make sure it works. You don't want to add a bunch of stuff and spend tons of time tracking a little thing down.
  - **Google everything!** - Google is a developers best friend. I'm not joking. No one actually just _knows_ this stuff... you just get really good at knowing what to google and reading/incorporating the answers you find. 
  - **Ask for help** - Everyone around you is dying to help you out! Don't be afraid to ask, no matter how silly you think your question is (because trust me, it's not). 
+
+- [Option 1 - Personal website](https://github.com/zsobin/PersonalWebApp): This is the easier option, using only HTML and CSS. 
+- [Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
+
+Step-by-step instructions for these can be found in the repo READMEs. 
