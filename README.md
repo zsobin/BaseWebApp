@@ -31,7 +31,10 @@ you should see all the items on your desktop displayed in text in the terminal l
 
 
 ##### 4. Clone the Repository 
-When you create (or in this case, fork) a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations. Use the command line to (1) clone your project from Github onto your own computer, then (2) navigate into the project and then (3) list all the files in the project:
+When you create (or in this case, fork) a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations. Use the command line to 
+	(1) clone your project from Github onto your own computer, then 
+	(2) navigate into the project and then 
+	(3) list all the files in the project:
 
 ```
 	git clone https://github.com/YourUserName/BaseWebApp.git 
