@@ -76,7 +76,7 @@ This is kind of a weird step but it's worth it- What this does is essentially co
  - Click the tab ‘Deploy’ 
  - In Deployment Method, select ‘Connect to Github’
  - Search for your Repo- "BaseWebApp"
- - Click 'connect' and the 'Enable Automatic Deploys'
+ - Click 'connect' and then 'Enable Automatic Deploys'
  
 _*We use automatic deploys at HubSpot - but ours go to a 'QA' or 'staging' site. Can you think of why we might do that? Ask a hubspotter near you what they think!_
 
