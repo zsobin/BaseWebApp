@@ -20,6 +20,8 @@ Mission- Get up and running with the Base Web App. Should be able to run locally
 ##### 2. Find and open your terminal 
 <img width="115" alt="screen shot 2017-04-21 at 11 43 48 am" src="https://cloud.githubusercontent.com/assets/17851174/25285319/ce48dafe-2687-11e7-9fba-3262f406235f.png">
 
+*Note: on Windows, it might be called Git Shell or Git BASH.*
+
 ##### 3. Use the command line to navigate to your desktop:
 - `ls` lists all files in a directory. If you're on a PC, the command is `dir` instead. 
 ```
@@ -27,6 +29,7 @@ Mission- Get up and running with the Base Web App. Should be able to run locally
 	ls 
 ```
 you should see all the items on your desktop displayed in text in the terminal like so: 
+
 ![oct-12-2016 21-51-18](https://cloud.githubusercontent.com/assets/17851174/25285297/b97b3586-2687-11e7-8d0a-075baed899c4.gif)
 
 
@@ -49,6 +52,10 @@ Use the command line to create an app on Heroku, which prepares Heroku to receiv
 	heroku create
 ```
 
+*Note: On Windows, the first command might 'hang' for quite some time (even up to 10-15 minutes) - do not cancel and restart it, usually after this first 'long' run, it works without issues later on.*
+
+If you experience any issues with Heroku CLI, please refer to https://devcenter.heroku.com/articles/heroku-cli#troubleshooting and your error log file.
+
 ##### 6. Install dependencies
 Install the project’s dependencies using npm, a tool used to install any other projects your project needs in order to run locally. View the dependencies your app needs [here](https://github.com/zsobin/BaseWebApp/blob/master/package.json#L9). 
 ```
@@ -67,7 +74,14 @@ Open a browser and navigate to `localhost:5000`
 ##### 9. Make a change in the code and refresh the page running at `localhost:5000`
 Open the project with Sublime text or whichever text editor you installed. Make a change to your code (ex. In `index.ejs` change the header text) and refresh your web browser- you should see the change!
 
-Ejs is a templating language that stands for embedded javascript. It's like HTML but with some special sauce mixed in so that you can add in a little javascript that gets compiled to HTML before it's send to the browser. We won't really be using it for anything other than HTML today though. 
+Ejs is a templating language that stands for embedded javascript. It's like HTML but with some special sauce mixed in so that you can add in a little javascript that gets compiled to HTML before it's send to the browser. We won't really be using it for anything other than HTML today though.
+
+Few editors that you might find helpful:
+* [Sublime Text](https://www.sublimetext.com/) - free to evaluate, but requires licence if you plan to use it every day
+* [Atom](https://atom.io/) - completely free editor
+* [Visual Studio Code](https://code.visualstudio.com/) - another free to use editor
+
+In fact, any text editor will  work - if you have favourite one, please use it!
 
 ##### 10. Link github repo to heroku
 This is kind of a weird step but it's worth it- What this does is essentially connects your heroku app to a Github Repository. It monitors the repository and whenever it sees you push a change, it automatically re-deploys your application so that your changes are incorporated in your live site. 
