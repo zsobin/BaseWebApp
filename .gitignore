@@ -2,3 +2,5 @@ node_modules
 .env
 Dockerfile
 docker-compose.yml
+.DS_Store
+package-lock.json
