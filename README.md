@@ -121,3 +121,29 @@ A few tips before you begin:
  [Option 2 - Incorporate database](https://github.com/zsobin/DatabaseWebApp): this is more challenging, and only recommended for attendees who are familiar with HTML, CSS and a little bit of javascript. 	
 
 Step-by-step instructions for these can be found in the repo READMEs. 
+
+### Additional materials
+
+To help you with further development, we’ve gathered together some additional materials. Hope you will find them useful.
+
+**Git and GitHub tutorials**
+Version control is an important tool for every developer, and git is the most popular one. Learn more [useful git commands](https://try.github.io/levels/1/challenges/1), discover [the branching]( https://learngitbranching.js.org/) and then check [how to use GitHub](https://guides.github.com/activities/hello-world/) for your own project.
+
+**Web App tutorials (HTML, CSS, JavaScript)**
+There are plenty of different tutorials and online resources to learn HTML, CSS and JavaScript. We have found these useful and interactive:
+
+- FreeCode Camp interactive web development tutorial: https://www.freecodecamp.org/ 
+- Khan Academy free html and css tutorial: https://khanacademy.org/computing/computer-programming/html-css 
+- Comprehensive web development tutorial/documentation by Mozilla: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+
+ - CSS visual guide: https://cssreference.io/ 
+- Flexbox tutorial: http://flexboxfroggy.com/ 
+- cssGrid tutorial: http://cssgridgarden.com/ 
+
+- HTML cheatsheet: http://www.hostingreviewbox.com/html5-cheat-sheet/
+
+**Inspiration and problem solving**
+To practice your problem solving skills and find some inspiration, please check the following pages: 
+- [StackOverflow](https://stackoverflow.com/) is a great place to ask any question (or search for it first, because it’s very likely that someone has already asked the same question and got an answer :))
+- [Code Pen](https://codepen.io/) is a great source of inspiration with a lot of projects based on HTML, CSS and JavaScript
+- [Dev.to](https://dev.to/) is a blog platform where you can find plenty of useful posts from other developers.
