@@ -122,7 +122,7 @@ There are plenty of different tutorials and online resources to learn HTML, CSS 
 - Khan Academy free html and css tutorial: https://khanacademy.org/computing/computer-programming/html-css 
 - Comprehensive web development tutorial/documentation by Mozilla: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 
- - CSS visual guide: https://cssreference.io/ 
+- CSS visual guide: https://cssreference.io/ 
 - Flexbox tutorial: http://flexboxfroggy.com/ 
 - cssGrid tutorial: http://cssgridgarden.com/ 
 
