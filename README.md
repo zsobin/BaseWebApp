@@ -6,13 +6,12 @@ Check it out at: https://pacific-bastion-31399.herokuapp.com/
 Mission- Get up and running with the Base Web App. Should be able to run locally and be deployed on Heroku. 
 
 ##### 0. Before you get started:
-
-- [ ] [Create Heroku account (primary language = node)](https://signup.heroku.com/)
-- [ ] [Download and install Heroku's command line tools](https://toolbelt.heroku.com/) 
-- [ ] [Create Github account](https://github.com/join) 
-- [ ] [Download and install Git (github's command line tool)](https://help.github.com/articles/set-up-git/#setting-up-git) 
-- [ ] [Download and install Node.js ](https://nodejs.org/en/download/) 
-- [ ] Download and install a text editor (I recommend [sublime text 3](https://www.sublimetext.com/3))
+- [ ] <a href="https://signup.heroku.com/" target="_blank">Create Heroku account (primary language = node)</a>
+- [ ] <a href="https://toolbelt.heroku.com/" target="_blank">Download and install Heroku's command line tools</a>
+- [ ] <a href="https://github.com/join" target="_blank">Create Github account</a>
+- [ ] <a href="https://help.github.com/articles/set-up-git/#setting-up-git" target="_blank">Download and install Git (github's command line tool)</a>
+- [ ] <a href="https://nodejs.org/en/download/" target="_blank">Download and install Node.js</a>
+- [ ] Download and install a text editor (I recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
 
 ##### 1. Make a copy of my existing project on github by forking the project at https://github.com/zsobin/BaseWebApp.git
 <img width="400" alt="github" src="https://cloud.githubusercontent.com/assets/17851174/25285298/b990a2ae-2687-11e7-845c-2673aa704689.png">
