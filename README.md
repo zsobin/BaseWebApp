@@ -10,7 +10,7 @@ Mission- Get up and running with the Base Web App. Should be able to run locally
 - [ ] [Create Heroku account (primary language = node)](https://signup.heroku.com/)
 - [ ] [Download and install Heroku's command line tools](https://toolbelt.heroku.com/) 
 - [ ] [Create Github account](https://github.com/join) 
-- [ ] [Download and install github's command line tools](https://help.github.com/articles/set-up-git/#setting-up-git) 
+- [ ] [Download and install Git (github's command line tool)](https://help.github.com/articles/set-up-git/#setting-up-git) 
 - [ ] [Download and install Node.js ](https://nodejs.org/en/download/) 
 - [ ] Download and install a text editor (I recommend [sublime text 3](https://www.sublimetext.com/3))
 
