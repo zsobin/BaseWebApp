@@ -121,15 +121,22 @@ A few tips before you begin:
 
 Step-by-step instructions for these can be found in the repo READMEs. 
 
-### Additional materials
 
-To help you with further development, we’ve gathered together some additional materials. Hope you will find them useful.
+
+
+----------------------------------------------------------------------------------------------
+
+
+### Other resources
+
+Here are some external resources we've gathered to help you with further development.
 
 **Git and GitHub tutorials**
 Version control is an important tool for every developer, and git is the most popular one. Learn more [useful git commands](https://try.github.io/levels/1/challenges/1), discover [the branching]( https://learngitbranching.js.org/) and then check [how to use GitHub](https://guides.github.com/activities/hello-world/) for your own project.
 
 **Web App tutorials (HTML, CSS, JavaScript)**
-There are plenty of different tutorials and online resources to learn HTML, CSS and JavaScript. We have found these useful and interactive:
+There are plenty of different and more comprehensive tutorials and online resources to learn HTML, CSS and JavaScript. 
+
 
 - FreeCode Camp interactive web development tutorial: https://www.freecodecamp.org/ 
 - Khan Academy free html and css tutorial: https://khanacademy.org/computing/computer-programming/html-css 
@@ -137,7 +144,6 @@ There are plenty of different tutorials and online resources to learn HTML, CSS 
 
 - CSS visual guide: https://cssreference.io/ 
 - Flexbox tutorial: http://flexboxfroggy.com/ 
-- cssGrid tutorial: http://cssgridgarden.com/ 
 
 - HTML cheatsheet: http://www.hostingreviewbox.com/html5-cheat-sheet/
 
