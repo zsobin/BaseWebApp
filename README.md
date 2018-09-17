@@ -147,6 +147,11 @@ There are plenty of different and more comprehensive tutorials and online resour
 
 - HTML cheatsheet: http://www.hostingreviewbox.com/html5-cheat-sheet/
 
+**More Web App tutorials (FE frameworks)**
+Once you have comfortability with JS, CSS and HTML, try out a frontend framework to take your skills to the next level.
+
+- Learning React with create-react-app: https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
+
 **Inspiration and problem solving**
 To practice your problem solving skills and find some inspiration, please check the following pages: 
 - [StackOverflow](https://stackoverflow.com/) is a great place to ask any question (or search for it first, because it’s very likely that someone has already asked the same question and got an answer :))
